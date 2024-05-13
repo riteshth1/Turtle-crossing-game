@@ -7,3 +7,10 @@ Turtle Crossing is a simple arcade-style game created using Python and the Turtl
 1. Simple and intuitive gameplay.
 2. Colorful graphics and animations using Turtle graphics.
 3. Increasing difficulty levels as the player progresses.
+
+<strong>How to Play</strong>
+1. Use the Up arrow key to move the turtle character.
+2. Navigate the turtle across the road while avoiding oncoming vehicles.
+3. Be careful not to get hit by any vehicles, as this will end the game.
+4. The game gets progressively harder as the player advances.
+
